@@ -1,0 +1,11 @@
+C:\Users\ivani\source\repos\SA lab 3\SA_lab_3.DAL\bin\Debug\net8.0\SA_lab_3.DAL.deps.json
+C:\Users\ivani\source\repos\SA lab 3\SA_lab_3.DAL\bin\Debug\net8.0\SA_lab_3.DAL.dll
+C:\Users\ivani\source\repos\SA lab 3\SA_lab_3.DAL\bin\Debug\net8.0\SA_lab_3.DAL.pdb
+C:\Users\ivani\source\repos\SA lab 3\SA_lab_3.DAL\obj\Debug\net8.0\SA_lab_3.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivani\source\repos\SA lab 3\SA_lab_3.DAL\obj\Debug\net8.0\SA_lab_3.DAL.AssemblyInfoInputs.cache
+C:\Users\ivani\source\repos\SA lab 3\SA_lab_3.DAL\obj\Debug\net8.0\SA_lab_3.DAL.AssemblyInfo.cs
+C:\Users\ivani\source\repos\SA lab 3\SA_lab_3.DAL\obj\Debug\net8.0\SA_lab_3.DAL.csproj.CoreCompileInputs.cache
+C:\Users\ivani\source\repos\SA lab 3\SA_lab_3.DAL\obj\Debug\net8.0\SA_lab_3.DAL.dll
+C:\Users\ivani\source\repos\SA lab 3\SA_lab_3.DAL\obj\Debug\net8.0\refint\SA_lab_3.DAL.dll
+C:\Users\ivani\source\repos\SA lab 3\SA_lab_3.DAL\obj\Debug\net8.0\SA_lab_3.DAL.pdb
+C:\Users\ivani\source\repos\SA lab 3\SA_lab_3.DAL\obj\Debug\net8.0\ref\SA_lab_3.DAL.dll

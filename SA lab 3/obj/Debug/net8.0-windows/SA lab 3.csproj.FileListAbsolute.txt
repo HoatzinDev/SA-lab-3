@@ -1,0 +1,24 @@
+C:\Users\ivani\source\repos\SA lab 3\SA lab 3\bin\Debug\net8.0-windows\SA lab 3.exe
+C:\Users\ivani\source\repos\SA lab 3\SA lab 3\bin\Debug\net8.0-windows\SA lab 3.deps.json
+C:\Users\ivani\source\repos\SA lab 3\SA lab 3\bin\Debug\net8.0-windows\SA lab 3.runtimeconfig.json
+C:\Users\ivani\source\repos\SA lab 3\SA lab 3\bin\Debug\net8.0-windows\SA lab 3.dll
+C:\Users\ivani\source\repos\SA lab 3\SA lab 3\bin\Debug\net8.0-windows\SA lab 3.pdb
+C:\Users\ivani\source\repos\SA lab 3\SA lab 3\obj\Debug\net8.0-windows\SA_lab_3.Form1.resources
+C:\Users\ivani\source\repos\SA lab 3\SA lab 3\obj\Debug\net8.0-windows\SA lab 3.csproj.GenerateResource.cache
+C:\Users\ivani\source\repos\SA lab 3\SA lab 3\obj\Debug\net8.0-windows\SA lab 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivani\source\repos\SA lab 3\SA lab 3\obj\Debug\net8.0-windows\SA lab 3.AssemblyInfoInputs.cache
+C:\Users\ivani\source\repos\SA lab 3\SA lab 3\obj\Debug\net8.0-windows\SA lab 3.AssemblyInfo.cs
+C:\Users\ivani\source\repos\SA lab 3\SA lab 3\obj\Debug\net8.0-windows\SA lab 3.csproj.CoreCompileInputs.cache
+C:\Users\ivani\source\repos\SA lab 3\SA lab 3\obj\Debug\net8.0-windows\SA lab 3.dll
+C:\Users\ivani\source\repos\SA lab 3\SA lab 3\obj\Debug\net8.0-windows\refint\SA lab 3.dll
+C:\Users\ivani\source\repos\SA lab 3\SA lab 3\obj\Debug\net8.0-windows\SA lab 3.pdb
+C:\Users\ivani\source\repos\SA lab 3\SA lab 3\obj\Debug\net8.0-windows\SA lab 3.genruntimeconfig.cache
+C:\Users\ivani\source\repos\SA lab 3\SA lab 3\obj\Debug\net8.0-windows\ref\SA lab 3.dll
+C:\Users\ivani\source\repos\SA lab 3\SA lab 3\obj\Debug\net8.0-windows\SA_lab_3.Properties.Resources.resources
+C:\Users\ivani\source\repos\SA lab 3\SA lab 3\bin\Debug\net8.0-windows\SA_lab_3.BLL.dll
+C:\Users\ivani\source\repos\SA lab 3\SA lab 3\bin\Debug\net8.0-windows\SA_lab_3.DAL.dll
+C:\Users\ivani\source\repos\SA lab 3\SA lab 3\bin\Debug\net8.0-windows\SA_lab_3.BLL.pdb
+C:\Users\ivani\source\repos\SA lab 3\SA lab 3\bin\Debug\net8.0-windows\SA_lab_3.DAL.pdb
+C:\Users\ivani\source\repos\SA lab 3\SA lab 3\obj\Debug\net8.0-windows\SA lab 3.csproj.AssemblyReference.cache
+C:\Users\ivani\source\repos\SA lab 3\SA lab 3\obj\Debug\net8.0-windows\SA lab 3.csproj.Up2Date
+C:\Users\ivani\source\repos\SA lab 3\SA lab 3\obj\Debug\net8.0-windows\SA_lab_3.enter.resources

@@ -1,0 +1,15 @@
+C:\Users\ivani\source\repos\SA lab 3\SA_lab_3.BLL\bin\Debug\net8.0\SA_lab_3.BLL.deps.json
+C:\Users\ivani\source\repos\SA lab 3\SA_lab_3.BLL\bin\Debug\net8.0\SA_lab_3.BLL.dll
+C:\Users\ivani\source\repos\SA lab 3\SA_lab_3.BLL\bin\Debug\net8.0\SA_lab_3.BLL.pdb
+C:\Users\ivani\source\repos\SA lab 3\SA_lab_3.BLL\obj\Debug\net8.0\SA_lab_3.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivani\source\repos\SA lab 3\SA_lab_3.BLL\obj\Debug\net8.0\SA_lab_3.BLL.AssemblyInfoInputs.cache
+C:\Users\ivani\source\repos\SA lab 3\SA_lab_3.BLL\obj\Debug\net8.0\SA_lab_3.BLL.AssemblyInfo.cs
+C:\Users\ivani\source\repos\SA lab 3\SA_lab_3.BLL\obj\Debug\net8.0\SA_lab_3.BLL.csproj.CoreCompileInputs.cache
+C:\Users\ivani\source\repos\SA lab 3\SA_lab_3.BLL\obj\Debug\net8.0\SA_lab_3.BLL.dll
+C:\Users\ivani\source\repos\SA lab 3\SA_lab_3.BLL\obj\Debug\net8.0\refint\SA_lab_3.BLL.dll
+C:\Users\ivani\source\repos\SA lab 3\SA_lab_3.BLL\obj\Debug\net8.0\SA_lab_3.BLL.pdb
+C:\Users\ivani\source\repos\SA lab 3\SA_lab_3.BLL\obj\Debug\net8.0\ref\SA_lab_3.BLL.dll
+C:\Users\ivani\source\repos\SA lab 3\SA_lab_3.BLL\bin\Debug\net8.0\SA_lab_3.DAL.dll
+C:\Users\ivani\source\repos\SA lab 3\SA_lab_3.BLL\bin\Debug\net8.0\SA_lab_3.DAL.pdb
+C:\Users\ivani\source\repos\SA lab 3\SA_lab_3.BLL\obj\Debug\net8.0\SA_lab_3.BLL.csproj.AssemblyReference.cache
+C:\Users\ivani\source\repos\SA lab 3\SA_lab_3.BLL\obj\Debug\net8.0\SA_lab_3.E7D2D147.Up2Date

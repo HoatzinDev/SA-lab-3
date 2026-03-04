@@ -1,0 +1,337 @@
+{
+  "Locations": [
+    {
+      "Id": -1,
+      "name": "Beecher\u0027s Hope ",
+      "description": "Beecher\u0027s Hope is a safehouse and a ranch in the Great Plains region of the West Elizabeth territory. ",
+      "ImagePaths": [
+        "Images\\4320c06b-dca9-4161-944f-7506c899d1f9_maxresdefaultjohn house.jpg"
+      ],
+      "X": 0.22708334,
+      "Y": 0.6479358,
+      "Manager": null,
+      "rating": 0,
+      "questions": [
+        {
+          "Text": "Wolf are gone ?",
+          "Answer": null
+        }
+      ],
+      "reviews": [
+        {
+          "Rating": 5,
+          "Text": "I build it and I\u0027m proud",
+          "Writer": {
+            "Id": -1,
+            "name": "John Marston(Beecher\u0027s Hope )",
+            "Visited": [
+              null,
+              {
+                "Id": 5,
+                "name": "Blackwater",
+                "description": " is a growing city and the state capital of the commonwealth of West Elizabeth\nBlackwater is an industrialized settlement and is the largest and most modern city in Red Dead Redemption, serving the area as a thriving port on Flat Iron Lake. ",
+                "ImagePaths": [
+                  "Images\\538ffb53-fd22-4589-b137-b61ff385b6e8_Blackwater.jpg"
+                ],
+                "X": 0.340625,
+                "Y": 0.6227064,
+                "Manager": null,
+                "rating": 0,
+                "questions": [],
+                "reviews": [
+                  {
+                    "Rating": 5,
+                    "Text": "Nothing happened here on May 1899",
+                    "Writer": null
+                  }
+                ]
+              }
+            ],
+            "IsManager": false
+          }
+        }
+      ]
+    },
+    {
+      "Id": 1,
+      "name": "Valentine",
+      "description": "Valentine is a livestock town, a short ride away from the Horseshoe Overlook camp\n the first camp the gang makes after their exodus from the frigid mountains. ",
+      "ImagePaths": [
+        "Images\\87fd7f52-2fdf-4697-95c3-1a888d69278e_screenshot_valentinenh.jpg"
+      ],
+      "X": 0.45,
+      "Y": 0.35,
+      "Manager": null,
+      "rating": 0,
+      "questions": [],
+      "reviews": []
+    },
+    {
+      "Id": 2,
+      "name": "Saint Denis",
+      "description": "\u0022Jewel of Lemoyne,\u0022 is a major city and the state capital of Lemoyne\nSaint Denis is a heavily industrialized city at the turn of the 20th century, with large factories with towering chimneys.",
+      "ImagePaths": [
+        "Images\\682427d7-1f00-4286-a99f-191294fa69b0_1772651073008.jpeg",
+        "Images\\0828b082-71af-4dc4-adea-446b9594810f_20211228171923_1.jpg"
+      ],
+      "X": 0.809375,
+      "Y": 0.6284404,
+      "Manager": null,
+      "rating": 0,
+      "questions": [],
+      "reviews": []
+    },
+    {
+      "Id": 0,
+      "name": "Strawberry",
+      "description": "It serves as the capital of the Big Valley region. It is found roughly south-central in the region, southeast of Mount Shann.\n Although the city was founded as a small logging town, it has grown in recent years and displays sluices and other equipment often associated with small gold mining operations.\n Nonetheless, its mayor wishes to transform it into a resort town. ",
+      "ImagePaths": [
+        "Images\\06483afd-6a26-4770-afb6-0b04cee6e807_Screenshot_3strawberry",
+        "Images\\6d205c8e-fce0-416d-92c3-7b23a0bfbc0c_Screenshot_3strawberry.png"
+      ],
+      "X": 0.21354167,
+      "Y": 0.49426606,
+      "Manager": {
+        "Id": -1,
+        "name": "John Marston(Beecher\u0027s Hope )",
+        "Visited": [
+          {
+            "Id": -1,
+            "name": "Beecher\u0027s Hope ",
+            "description": "Beecher\u0027s Hope is a safehouse and a ranch in the Great Plains region of the West Elizabeth territory. ",
+            "ImagePaths": [
+              "Images\\4320c06b-dca9-4161-944f-7506c899d1f9_maxresdefaultjohn house.jpg"
+            ],
+            "X": 0.22708334,
+            "Y": 0.6479358,
+            "Manager": null,
+            "rating": 0,
+            "questions": [
+              {
+                "Text": "Wolf are gone ?",
+                "Answer": null
+              }
+            ],
+            "reviews": [
+              {
+                "Rating": 5,
+                "Text": "I build it and I\u0027m proud",
+                "Writer": null
+              }
+            ]
+          },
+          {
+            "Id": 5,
+            "name": "Blackwater",
+            "description": " is a growing city and the state capital of the commonwealth of West Elizabeth\nBlackwater is an industrialized settlement and is the largest and most modern city in Red Dead Redemption, serving the area as a thriving port on Flat Iron Lake. ",
+            "ImagePaths": [
+              "Images\\538ffb53-fd22-4589-b137-b61ff385b6e8_Blackwater.jpg"
+            ],
+            "X": 0.340625,
+            "Y": 0.6227064,
+            "Manager": null,
+            "rating": 0,
+            "questions": [],
+            "reviews": [
+              {
+                "Rating": 5,
+                "Text": "Nothing happened here on May 1899",
+                "Writer": null
+              }
+            ]
+          }
+        ],
+        "IsManager": false
+      },
+      "rating": 0,
+      "questions": [],
+      "reviews": []
+    },
+    {
+      "Id": 5,
+      "name": "Blackwater",
+      "description": " is a growing city and the state capital of the commonwealth of West Elizabeth\nBlackwater is an industrialized settlement and is the largest and most modern city in Red Dead Redemption, serving the area as a thriving port on Flat Iron Lake. ",
+      "ImagePaths": [
+        "Images\\538ffb53-fd22-4589-b137-b61ff385b6e8_Blackwater.jpg",
+        "Images\\38087306-02d0-41fc-a3fe-3b77783400e4_20210305214126_1.jpg"
+      ],
+      "X": 0.340625,
+      "Y": 0.6227064,
+      "Manager": null,
+      "rating": 0,
+      "questions": [],
+      "reviews": [
+        {
+          "Rating": 5,
+          "Text": "Nothing happened here on May 1899",
+          "Writer": {
+            "Id": -1,
+            "name": "John Marston(Beecher\u0027s Hope )",
+            "Visited": [
+              {
+                "Id": -1,
+                "name": "Beecher\u0027s Hope ",
+                "description": "Beecher\u0027s Hope is a safehouse and a ranch in the Great Plains region of the West Elizabeth territory. ",
+                "ImagePaths": [
+                  "Images\\4320c06b-dca9-4161-944f-7506c899d1f9_maxresdefaultjohn house.jpg"
+                ],
+                "X": 0.22708334,
+                "Y": 0.6479358,
+                "Manager": null,
+                "rating": 0,
+                "questions": [
+                  {
+                    "Text": "Wolf are gone ?",
+                    "Answer": null
+                  }
+                ],
+                "reviews": [
+                  {
+                    "Rating": 5,
+                    "Text": "I build it and I\u0027m proud",
+                    "Writer": null
+                  }
+                ]
+              },
+              null
+            ],
+            "IsManager": false
+          }
+        }
+      ]
+    },
+    {
+      "Id": 6,
+      "name": "Rhoades",
+      "description": "a small town  located in the Scarlett Meadows region of the state of Lemoyne.\nRhodes was primarily founded by Sherman M. Rhodes, a Brigadier General in the army. The town plays host to a busy railway station on the west side of town. ",
+      "ImagePaths": [],
+      "X": 0.621875,
+      "Y": 0.6272936,
+      "Manager": null,
+      "rating": 0,
+      "questions": [],
+      "reviews": []
+    },
+    {
+      "Id": 7,
+      "name": "Annesburg",
+      "description": "Annesburg is a mining town located in the Roanoke Ridge region of the state of New Hanover, on the banks of the Lannahechee River.  ",
+      "ImagePaths": [
+        "Images\\901ccad1-e10a-4129-83c1-5dc79be8ca1b_6pnqchrggok71.jpg"
+      ],
+      "X": 0.93645835,
+      "Y": 0.16399083,
+      "Manager": null,
+      "rating": 0,
+      "questions": [],
+      "reviews": []
+    },
+    {
+      "Id": 8,
+      "name": "Colter",
+      "description": "Ex miner\u0027s city and an abandoned settlement, a gang hideout and a camp hideout\nIt serves as the location of the Van der Linde gang\u2019s camp",
+      "ImagePaths": [
+        "Images\\4b634c08-bbc8-466e-a3d0-4fa775d9a28a_free-roam-colter-chapt-1-v0-0gjf7m3v4zue1.jpg",
+        "Images\\997c99ec-963c-40a4-9b42-3c72bba7bbd1_20201229014115_1.jpg",
+        "Images\\d8d79a75-4b6c-419d-be55-8c85e4c5b5e1_20201229160835_1.jpg",
+        "Images\\c7eda814-6dc2-4160-bc88-026ae926f20d_20210219214353_1.jpg"
+      ],
+      "X": 0.35625,
+      "Y": 0.16055046,
+      "Manager": null,
+      "rating": 0,
+      "questions": [],
+      "reviews": []
+    }
+  ],
+  "Users": [
+    {
+      "Id": -1,
+      "name": "John Marston(Beecher\u0027s Hope )",
+      "Visited": [
+        {
+          "Id": -1,
+          "name": "Beecher\u0027s Hope ",
+          "description": "Beecher\u0027s Hope is a safehouse and a ranch in the Great Plains region of the West Elizabeth territory. ",
+          "ImagePaths": [
+            "Images\\4320c06b-dca9-4161-944f-7506c899d1f9_maxresdefaultjohn house.jpg"
+          ],
+          "X": 0.22708334,
+          "Y": 0.6479358,
+          "Manager": null,
+          "rating": 0,
+          "questions": [
+            {
+              "Text": "Wolf are gone ?",
+              "Answer": null
+            }
+          ],
+          "reviews": [
+            {
+              "Rating": 5,
+              "Text": "I build it and I\u0027m proud",
+              "Writer": null
+            }
+          ]
+        },
+        {
+          "Id": 5,
+          "name": "Blackwater",
+          "description": " is a growing city and the state capital of the commonwealth of West Elizabeth\nBlackwater is an industrialized settlement and is the largest and most modern city in Red Dead Redemption, serving the area as a thriving port on Flat Iron Lake. ",
+          "ImagePaths": [
+            "Images\\538ffb53-fd22-4589-b137-b61ff385b6e8_Blackwater.jpg"
+          ],
+          "X": 0.340625,
+          "Y": 0.6227064,
+          "Manager": null,
+          "rating": 0,
+          "questions": [],
+          "reviews": [
+            {
+              "Rating": 5,
+              "Text": "Nothing happened here on May 1899",
+              "Writer": null
+            }
+          ]
+        }
+      ],
+      "IsManager": false
+    },
+    {
+      "Id": 1,
+      "name": "John James Peterson(New Hanover)",
+      "Visited": [],
+      "IsManager": true
+    },
+    {
+      "Id": 2,
+      "name": "Henri Lemieux (Saint Denis)",
+      "Visited": [],
+      "IsManager": true
+    },
+    {
+      "Id": 0,
+      "name": "Nicholas Timmins(strawberry)",
+      "Visited": [],
+      "IsManager": true
+    },
+    {
+      "Id": 5,
+      "name": "Josiah Blackwater",
+      "Visited": [],
+      "IsManager": true
+    },
+    {
+      "Id": 6,
+      "name": "Leigh Gray (Rhoades)",
+      "Visited": [],
+      "IsManager": true
+    },
+    {
+      "Id": 7,
+      "name": "Archibald Jameson and Leviticus Cornwall (Annesburg)",
+      "Visited": [],
+      "IsManager": true
+    }
+  ]
+}
